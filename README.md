@@ -1,2 +1,2 @@
-# AtlSchool-repo
+# AltSchool-repo
 AltSchool first Ass
